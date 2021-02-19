@@ -21,7 +21,7 @@
 		"tall"				"101" //100
 		"font"				"Size:12 | Outline:OFF"
 		"textAlignment"		"center"
-		"fgcolor"			"0 255 0 255" //Crosshair
+		"fgcolor"			"5 240 160 255" //Crosshair
 	}
 	
 	CustomCrosshair2
