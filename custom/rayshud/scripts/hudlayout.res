@@ -14,31 +14,31 @@
 		"labelText"			"5"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair"
-		"zpos"				"2"
+		"zpos"				"1"
 		"xpos"				"c-50" //c-50
 		"ypos"				"c-50" //c-49
-		"wide"				"101" //100
+		"wide"				"102" //100
 		"tall"				"101" //100
-		"font"				"Size:12 | Outline:OFF"
+		"font"				"Size:30 | Outline:OFF"
 		"textAlignment"		"center"
-		"fgcolor"			"5 240 160 255" //Crosshair
+		"fgcolor"			"0 0 0 230" //Crosshair
 	}
 	
 	CustomCrosshair2
 	{
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			"C"
+		"labelText"			"5"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair2"
 		"zpos"				"2"
 		"xpos"				"c-50" //c-51
 		"ypos"				"c-50" //c-49
-		"wide"				"100"
-		"tall"					"101" //100
-		"font"				"Size:30 | Outline:OFF"
+		"wide"				"101"
+		"tall"				"101" //100
+		"font"				"Size:14 | Outline:OFF"
 		"textAlignment"		"center"
-		"fgcolor"			"240 240 240 90" //Crosshair
+		"fgcolor"			"5 240 160 255" //Crosshair
 	}
 	
 	//--------------------------------------------------------------
