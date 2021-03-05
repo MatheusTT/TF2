@@ -1,5 +1,6 @@
 custom/workshop/
 custom/cfg_and_modules/sound/
+custom/TF2\ Custom\ things/sound/
 custom/custom_stuff/sound/
 custom/readme.txt
 custom/*.cache
@@ -10,6 +11,9 @@ cfg/
 
 maps/
 !maps/tr_walkway_rc2.bsp
+
+resource/
+!resource/tf_brazilian.txt
 
 bin/
 cache/
@@ -23,7 +27,6 @@ item_whitelist_example.txt
 materials/
 media/
 modelsounds.cache
-resource/
 scripts/
 sound/
 stats.txt

@@ -491,7 +491,7 @@
 		"xpos"	 				"r580"	//r592
 		"ypos"	 				"-2"	//22
 		"wide"	 				"580"
-		"tall"	 					"468"
+		"tall"	 				"468"
 		"MaxDeathNotices" 		"5"
 		"IconScale"				"0.35"
 		"LineHeight"			"14"
