@@ -1,6 +1,7 @@
 custom/workshop/
 custom/cfg_and_modules/sound/
 custom/TF2\ Custom\ things/sound/
+custom/rayshud/sound/sound.cache
 custom/custom_stuff/sound/
 custom/readme.txt
 custom/*.cache
@@ -14,7 +15,14 @@ maps/
 
 resource/
 !resource/tf_brazilian.txt
+!resource/tf_english.txt
 
+<<<<<<< HEAD
+=======
+screenshots/
+casual_criteria.vdf
+>>>>>>> 00ea7af (Algumas modificações na autoexec)
+sourcebench.csv
 bin/
 cache/
 demoheader.tmp
